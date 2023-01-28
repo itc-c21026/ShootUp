@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2007380524781314101
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2007380524781314103}
+  - component: {fileID: 2007380524781314100}
+  - component: {fileID: 2007380524781314248}
+  - component: {fileID: 2007380524781314249}
+  - component: {fileID: 2007380524781314102}
+  - component: {fileID: 2007380524781314251}
+  m_Layer: 0
+  m_Name: Admin
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2007380524781314103
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2007380524781314101}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2007380524781314100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2007380524781314101}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03799830a80d59d4bb648553e144e89f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ScoreCount: 0
+  ReceiveScore: 0
+--- !u!114 &2007380524781314248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2007380524781314101}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250dee770bc575841b80e32fce613dec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2007380524781314249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2007380524781314101}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c67f1da71eece01419e96d5c764c5dd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  csvFile: {fileID: 0}
+  TypeA1:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  TypeA2:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  TypeB1:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  TypeB2:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  TypeC1:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  TypeC2:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+--- !u!114 &2007380524781314102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2007380524781314101}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e02dcd4926bf53c448a81bd614042ddd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  csvFile: {fileID: 0}
+  TypeA1:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  TypeA2:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  TypeA3:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  TypeB1:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  TypeB2:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  TypeB3:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  TypeB4:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  TypeB5:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  TypeB6:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  TypeB7:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+--- !u!114 &2007380524781314251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2007380524781314101}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a57da459dd5b1c246be86ea19005449e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DropName: 
+  Pistol: 50
+  Sniper: 10
+  ShotGun: 15
+  MachineGun: 150
+  Throwingknife: 5
+  Grenade: 3

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - HarfFloor
+  - Enemy
+  - Weapon
+  - Weapon2
+  - sWeapon
+  - IMGPistol
+  - IMGSniper
+  - IMGShotGun
+  - IMGMachineGun
+  - IMGGrenade
+  - IMGKnife
+  - Wall
+  - WallDestroy
+  - StealthWall
+  - Ground
+  - MainEnemy
+  - Turret
+  - TurretGrenade
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Boss
+  - Player
+  - a
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

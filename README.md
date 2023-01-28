@@ -45,6 +45,6 @@ Unity 2021.3.5f1
 2022年 11・12月 ~ 2023年 1月 (3ヶ月)  
 
 ## スクリーンショット  
-![ScreenShot1](https://github.com/itc-c21026/ShootUp/blob/main/ScreenShot/GamePlay.png)　　
-![ScreenShot2](https://github.com/itc-c21026/ShootUp/blob/main/ScreenShot/Game_Boss.png)　　
-![ScreenShot3](https://github.com/itc-c21026/ShootUp/blob/main/ScreenShot/Result.png)
+![ScreenShot1](https://github.com/itc-c21026/ShootUp/blob/master/ScreenShot/GamePlay.png)　　
+![ScreenShot2](https://github.com/itc-c21026/ShootUp/blob/master/ScreenShot/Game_Boss.png)　　
+![ScreenShot3](https://github.com/itc-c21026/ShootUp/blob/master/ScreenShot/Result.png)

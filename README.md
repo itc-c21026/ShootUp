@@ -7,7 +7,7 @@
 ・与那嶺達矢 / デザイナー・プランナー  
 
 ## ファイル構成  
-・[Unityデータ]  
+・[Unityデータ](https://github.com/itc-c21026/ShootUp/tree/master/ShootUp)  
 
 ## 概要  
 
@@ -15,13 +15,16 @@
 シューティングゲーム  
 
 ## プラットフォーム  
-・[Windows]  
-・[WebGL]  
+・[Windows](https://github.com/itc-c21026/ShootUp/tree/master/ShootUp/ShootUp_exe)  
+・[WebGL](https://github.com/itc-c21026/ShootUp/blob/master/ShootUp/WebGL.zip)  
 
 ## 使用言語  
 C#  
 
 ## 主なプログラム  
+・[マップを制御するプログラム](https://github.com/itc-c21026/ShootUp/blob/master/ShootUp/Assets/HokazeFolder/Scripts/Map/MapScript.cs)  
+・[プレイヤー本体にアタッチするプログラム(主に操作)](https://github.com/itc-c21026/ShootUp/blob/master/ShootUp/Assets/HokazeFolder/Scripts/Player/PlayerScript.cs)  
+・[UI全般のプログラム](https://github.com/itc-c21026/ShootUp/blob/master/ShootUp/Assets/HokazeFolder/Scripts/UI/UIScript.cs)  
 
 ## ゲームルール  
 ・全般  
